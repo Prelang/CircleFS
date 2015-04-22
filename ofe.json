@@ -1,0 +1,19 @@
+{
+  "default": {
+    "extensions": [".py", "*.md"],
+    "files":      ["ofe.json"],
+    "exclusions": []
+  },
+  "docs": {
+    "extensions": [".md"]
+  },
+  "diff": {
+    "command": "git diff --name-only"
+  },
+  "untracked": {
+    "command": "git ls-files --other --exclude-standard"
+  },
+  "git": {
+    "files": [".git/config", ".gitignore"]
+  }
+}
