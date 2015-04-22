@@ -64,7 +64,7 @@ Instead of remembering "my 'screencast image files' are located at `./screencast
 
 ## Authors
 
-Erik Nomitch and Andrew Yates
+[Andrew Yates](http://andrewyates.net) and [Erik Nomitch](http://eriknomitch.com/)
 
-Concept by [Erik Nomitch](http://eriknomitch.com)
+Original concept by [Erik Nomitch](http://eriknomitch.com)
 
