@@ -1,5 +1,9 @@
 # CircularFS
 
+* [Description][]
+* [Reasoning][]
+* [Authors][]
+
 ## Description
 
 CircularFS is a FUSE-mounted filesystem where:
@@ -45,7 +49,7 @@ CircularFS is a FUSE-mounted filesystem where:
 
 Thus the contents of `~/examples/images/screencasts` == `~/examples/screencats/images`.
 
-## Why?
+## Reasoning
 
 ### Efficient Overviews
 It's inefficient to go digging through sub directories if you have a layout such as this and just want to look at "all images".
