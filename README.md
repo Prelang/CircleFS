@@ -1,8 +1,8 @@
 # CircularFS
 
-* [Description][]
-* [Reasoning][]
-* [Authors][]
+* [Description](#description)
+* [Reasoning](#reasoning)
+* [Authors](#authors)
 
 ## Description
 
