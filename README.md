@@ -1,4 +1,4 @@
-# Circular File System Concept
+# CircularFS
 
 ## Description
 
