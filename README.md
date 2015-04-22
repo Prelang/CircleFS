@@ -2,7 +2,7 @@
 
 ## Description
 
-A filesystem (most likely virtual via FUSE) where:
+CircularFS is a FUSE-mounted filesystem where:
 
 1.) A directory index contains a list of all the (unique) directories and subdirectories in the tree.  Example:
 
